@@ -1,0 +1,14 @@
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\bin\Debug\net8.0\Data-Access-Layer-Clinic.deps.json
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\bin\Debug\net8.0\Data-Access-Layer-Clinic.runtimeconfig.json
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\bin\Debug\net8.0\Data-Access-Layer-Clinic.dll
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\bin\Debug\net8.0\Data-Access-Layer-Clinic.pdb
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\Data-Access-Layer-Clinic.csproj.AssemblyReference.cache
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\Data-Access-Layer-Clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\Data-Access-Layer-Clinic.AssemblyInfoInputs.cache
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\Data-Access-Layer-Clinic.AssemblyInfo.cs
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\Data-Access-Layer-Clinic.csproj.CoreCompileInputs.cache
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\Data-Access-Layer-Clinic.dll
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\refint\Data-Access-Layer-Clinic.dll
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\Data-Access-Layer-Clinic.pdb
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\Data-Access-Layer-Clinic.genruntimeconfig.cache
+C:\Users\iT\source\repos\FirstRestProject\Data-Access-Layer-Clinic\obj\Debug\net8.0\ref\Data-Access-Layer-Clinic.dll

@@ -1,0 +1,17 @@
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\bin\Debug\net8.0\Data-Business-Layer-Clinic.deps.json
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\bin\Debug\net8.0\Data-Business-Layer-Clinic.runtimeconfig.json
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\bin\Debug\net8.0\Data-Business-Layer-Clinic.dll
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\bin\Debug\net8.0\Data-Business-Layer-Clinic.pdb
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\bin\Debug\net8.0\Data-Access-Layer-Clinic.dll
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\bin\Debug\net8.0\Data-Access-Layer-Clinic.pdb
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Business-Layer-Clinic.csproj.AssemblyReference.cache
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Business-Layer-Clinic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Business-Layer-Clinic.AssemblyInfoInputs.cache
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Business-Layer-Clinic.AssemblyInfo.cs
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Business-Layer-Clinic.csproj.CoreCompileInputs.cache
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Bus.3576148E.Up2Date
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Business-Layer-Clinic.dll
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\refint\Data-Business-Layer-Clinic.dll
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Business-Layer-Clinic.pdb
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\Data-Business-Layer-Clinic.genruntimeconfig.cache
+C:\Users\iT\source\repos\FirstRestProject\Data-Business-Layer-Clinic\obj\Debug\net8.0\ref\Data-Business-Layer-Clinic.dll
